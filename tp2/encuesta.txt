@@ -1,0 +1,16 @@
+Ciudades que has visitado:
+Cordoba 0 Tucuman 1 Mendoza 1 Catamarca 0 
+Según tu experiencia, volverías a visitarlas?
+Sí 0 No 1 Quizás 0
+Ciudades que has visitado:
+Cordoba 0 Tucuman 1 Mendoza 0 Catamarca 1 
+Según tu experiencia, volverías a visitarlas?
+Sí 1 No 0 Quizás 0
+Ciudades que has visitado:
+Cordoba 1 Tucuman 1 Mendoza 0 Catamarca 0 
+Según tu experiencia, volverías a visitarlas?
+Sí 0 No 0 Quizás 1
+Ciudades que has visitado:
+Cordoba 1 Tucuman 0 Mendoza 0 Catamarca 0 
+Según tu experiencia, volverías a visitarlas?
+Sí 1 No 0 Quizás 0
